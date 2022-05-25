@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1653429872728
+  login: 1653429259354
+money: '0'
+logoutlocation:
+  world: d5c47d23-724d-4209-9ba8-f1ebf5bd8279
+  world-name: world
+  x: 103.4388976318207
+  y: 110.98897349967646
+  z: -294.7603992749212
+  yaw: 59.81427001953125
+  pitch: 20.100116729736328
+last-account-name: TheRhelaxBaby

@@ -1,0 +1,118 @@
+# Groups - Permission group for tcf.{group} (ex: tcf.default)
+# Commands - List of registered commands that will show in tab complete [MUST NOT HAVE "/" IN CONFIG]
+# Note - The user will also need the perm for the command itself
+Groups:
+  default:
+    Commands:
+    - /back
+    - /delhome
+    - /help
+    - /home
+    - /kit
+    - /msg
+    - /pay
+    - /sethome
+    - /tpa
+    - /tpacancel
+    - /tpaccept
+    - /tpahere
+    - /warp
+    - /afk
+  hierro:
+    Commands:
+    - /back
+    - /delhome
+    - /help
+    - /home
+    - /kit
+    - /msg
+    - /pay
+    - /sethome
+    - /tpa
+    - /tpacancel
+    - /tpaccept
+    - /tpahere
+    - /warp
+    - /afk
+  stream:
+    Commands:
+    - /back
+    - /delhome
+    - /help
+    - /home
+    - /kit
+    - /msg
+    - /pay
+    - /sethome
+    - /tpa
+    - /tpacancel
+    - /tpaccept
+    - /tpahere
+    - /warp
+    - /afk
+  oro:
+    Commands:
+    - /back
+    - /delhome
+    - /help
+    - /home
+    - /kit
+    - /msg
+    - /pay
+    - /sethome
+    - /tpa
+    - /tpacancel
+    - /tpaccept
+    - /tpahere
+    - /warp
+    - /afk
+  diamante:
+    Commands:
+    - /back
+    - /delhome
+    - /help
+    - /home
+    - /kit
+    - /msg
+    - /pay
+    - /sethome
+    - /tpa
+    - /tpacancel
+    - /tpaccept
+    - /tpahere
+    - /warp
+    - /afk
+    - /fly
+  netherite:
+    Commands:
+    - /back
+    - /delhome
+    - /help
+    - /home
+    - /kit
+    - /msg
+    - /pay
+    - /sethome
+    - /tpa
+    - /tpacancel
+    - /tpaccept
+    - /tpahere
+    - /warp
+    - /afk
+    - /fly
+  build:
+    Commands:
+    - /back
+    - /delhome
+    - /help
+    - /home
+    - /kit
+    - /msg
+    - /pay
+    - /sethome
+    - /tpa
+    - /tpacancel
+    - /tpaccept
+    - /tpahere
+    - /warp
+    - /afk

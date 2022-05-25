@@ -1,0 +1,15 @@
+2022/05/24 21:44:34 Player TheRhelaxBaby caught COW at X-409,Y75,Z-45
+2022/05/24 21:44:38 Player TheRhelaxBaby caught COW at X-407,Y75,Z-32
+2022/05/24 21:44:41 Player TheRhelaxBaby caught PIG at X-396,Y74,Z-42
+2022/05/24 21:45:05 Player TheRhelaxBaby caught COW at X-394,Y76,Z-35
+2022/05/24 21:45:10 Player TheRhelaxBaby caught HORSE at X-379,Y77,Z-34
+2022/05/24 21:45:18 Player TheRhelaxBaby caught COW at X-380,Y74,Z-51
+2022/05/24 21:45:23 Player TheRhelaxBaby caught COW at X-357,Y78,Z-44
+2022/05/24 21:46:04 Player TheRhelaxBaby caught VILLAGER at X-370,Y76,Z-51
+2022/05/24 21:46:04 Player TheRhelaxBaby caught VILLAGER at X-369,Y76,Z-51
+2022/05/24 21:46:21 Player TheRhelaxBaby caught VILLAGER at X-370,Y76,Z-50
+2022/05/24 21:52:26 Player TheRhelaxBaby caught HORSE at X-405,Y75,Z-49
+2022/05/24 21:52:36 Player TheRhelaxBaby caught PIG at X-411,Y82,Z-79
+2022/05/24 21:52:58 Player TheRhelaxBaby caught CHICKEN at X-402,Y75,Z-54
+2022/05/24 21:53:03 Player TheRhelaxBaby caught CHICKEN at X-402,Y75,Z-51
+2022/05/24 21:53:42 Player TheRhelaxBaby caught ZOMBIE at X-430,Y80,Z-66

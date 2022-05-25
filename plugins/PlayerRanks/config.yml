@@ -1,0 +1,67 @@
+#
+#    ___  _    ____ _   _ ____ ____ ____ ____ _  _ _  _ ____
+#    |__] |    |__|  \_/  |___ |__/ |__/ |__| |\ | |_/  [__
+#    |    |___ |  |   |   |___ |  \ |  \ |  | | \| | \_ ___]    v2.2 by cyne
+#
+
+update_notification: true
+
+use_chat_format: true
+
+# The lower the priority, the higher the rank is displayed in the tablist.
+ranks:
+  default:
+    prefix: '&8| &7● &7&lUsuario &7● &8| &f&l%player%'
+    suffix: .
+    chat_format: '&8| &7● &7&lUsuario &7● &8| &f&l%player%: &7%message%'
+    priority: 8
+    default: true
+  admin:
+    prefix: '&8┃ &4● &4&lDueño &4● &8| &f&l%player%'
+    suffix: ''
+    chat_format: '&8┃ &4● &4&lDueño &4● &8| &f&l%player%: &7%message%'
+    priority: 1
+    default: false
+  Hierro:
+    prefix: '&8| &0● &0&lHierro &0● &8| &f&l%player%'
+    suffix: ''
+    chat_format: '&8| &0● &0&lHierro &0● &8| &f&l%player%: &7%message%'
+    priority: 7
+    default: false
+  Oro:
+    prefix: '&8| &6● &6&lOro &6● &8| &f&l%player%'
+    suffix: ''
+    chat_format: '&8| &6● &6&lOro &6● &8| &f&l%player%: &7%message%'
+    priority: 6
+    default: false
+  Diamante:
+    prefix: '&8| &b● &b&lDiamante &b● &8| &f&l%player%'
+    suffix: ''
+    chat_format: '&8| &b● &b&lDiamante &b● &8| &f&l%player%: &7%message%'
+    priority: 5
+    default: false
+  Netherite:
+    prefix: '&8| &5● &5&lNetherite &5● &8| &f&l%player%'
+    suffix: ''
+    chat_format: '&8| &5● &5&lNetherite &5● &8| &f&l%player%: &7%message%'
+    priority: 4
+    default: false
+  Moderador:
+    prefix: '&8| &2● &2&lMod &2● &8| &f&l%player%'
+    suffix: ''
+    chat_format: '&8| &a● &a&lMod &a● &8| &f&l%player%: &7%message%'
+    priority: 2
+    default: false
+  Builder:
+    prefix: '&8| &2● &2&lBuilder &2● &8| &f&l%player%'
+    suffix: ''
+    chat_format: '&8| &2● &2&lBuilder &2● &8| &f&l%player%: &7%message%'
+    priority: 3
+    default: false
+  Streamer:
+    prefix: '&8| &4● &4&lStreamer &4● &8| &f&l%player%'
+    suffix: ''
+    chat_format: '&8| &4● &4&lStreamer &4● &8| &f&l%player%: &7%message%'
+    priority: 7
+    default: false
+

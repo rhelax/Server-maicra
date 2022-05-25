@@ -1,0 +1,1 @@
+[24.05.2022 18:28:31] TheRhelaxBaby: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode 1
